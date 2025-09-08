@@ -5091,7 +5091,7 @@
 	)
 	(text "Custom laptop software is needed\nto properly use the board. There\nwill eventually be code written\nand linked/hosted on Confluence."
 		(exclude_from_sim no)
-		(at 217.678 52.832 0)
+		(at 207.01 49.276 0)
 		(effects
 			(font
 				(size 2 2)
@@ -5115,7 +5115,7 @@
 	)
 	(text "This board enables a USB-C 2.0\nconnection to a CANdapter, running\nfirmware on an ESP32-C6-Mini to\ntransmit and monitor messages to/on\nthe solar car CANBUS."
 		(exclude_from_sim no)
-		(at 218.186 34.544 0)
+		(at 207.518 30.988 0)
 		(effects
 			(font
 				(size 2 2)
@@ -5139,7 +5139,7 @@
 	)
 	(text "There are two different\nbackup CAN_TX/RX pairs connected\nto GPIO14/15 and GPIO20/21 by \noptional jumpers."
 		(exclude_from_sim no)
-		(at 217.678 69.088 0)
+		(at 207.01 65.532 0)
 		(effects
 			(font
 				(size 2 2)
